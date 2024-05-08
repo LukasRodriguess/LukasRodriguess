@@ -1,4 +1,5 @@
-### Olá, sou Lukas Rodrigues 🚀
+![Lukas](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Lukas%20Rodrigues&section=header&reversal=false&textBg=false&animation=fadeIn)
+
 Venho de uma trajetória no audiovisual, onde desenvolvi um olhar analítico e a capacidade de interpretar informações de forma criativa. Recentemente, me formei em Análise e Desenvolvimento de Sistemas, e estou animado para aplicar minhas habilidades no campo da tecnologia.
 
 Acredito que minha experiência no audiovisual me trouxe uma perspectiva única, que pode ser valiosa na hora de extrair insights e entender padrões. 
