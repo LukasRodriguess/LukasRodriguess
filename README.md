@@ -16,7 +16,7 @@ Acredito que minha experiência no audiovisual me trouxe uma perspectiva única,
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasrodrigues/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukasRodriguess)
-[![G.Dev](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://g.dev/lukasrodrigues)
+[![G.Dev](https://img.shields.io/badge/Google_For_Developer-14354C?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lukasrodrigues)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasrodriguess&show_icons=true&theme=dark)
 
