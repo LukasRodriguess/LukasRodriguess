@@ -10,7 +10,7 @@ Acredito que minha experiência no audiovisual me trouxe uma perspectiva única,
 [![G.Dev](https://img.shields.io/badge/Google_For_Developer-14354C?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lukasrodrigues)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasrodriguess&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasrodriguess&show_icons=true&theme=dark)  <img src="https://tryhackme-badges.s3.amazonaws.com/lukasrodriguesnox.png" alt="Your Image Badge" />
 
 ## Tecnologias👇🏻
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,java,cs)](https://skillicons.dev)
